@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Swapnil Varma 👋
 
-<!--
-**Swapnil-Varma/Swapnil-Varma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics Engineering Student | FPGA & Embedded Systems Enthusiast
 
-Here are some ideas to get you started:
+## Areas of Interest
+- VLSI Design
+- FPGA Development
+- Embedded Systems
+- Microcontrollers
+- Digital Design
+- RTL Verification
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- Verilog HDL
+- Vivado
+- Quartus
+- ModelSim
+- EasyEDA
+- Proteus
+- ESP32
+- 8051
+
+## Current Learning
+- FPGA-based Processor Design
+- UART/SPI/I2C Protocols
+- RTL Design
+- PCB Design
+
+## Projects
+- UART Communication using FPGA
+- Traffic Light Controller in Verilog
+- 8051-based Display System
+- Line Follower Robot
