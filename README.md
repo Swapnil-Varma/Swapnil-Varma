@@ -28,9 +28,6 @@ Currently, I'm focused on strengthening my skills in **RTL Design, FPGA Developm
 
 ### Hardware Description & RTL
 
-\
-
-
 - RTL Design
 - Combinational & Sequential Logic
 - FSM Design
@@ -43,8 +40,6 @@ Currently, I'm focused on strengthening my skills in **RTL Design, FPGA Developm
 
 ### FPGA & EDA Tools
 
-
-
 - Xilinx Vivado
 - XSim
 - FPGA Synthesis
@@ -56,10 +51,6 @@ Currently, I'm focused on strengthening my skills in **RTL Design, FPGA Developm
 - Basys 3 / Artix-7 FPGA
 
 ### Programming & Engineering Tools
-
-
-\
-
 
 - MATLAB / Simulink
 - C / Embedded C
@@ -98,9 +89,6 @@ A comparative FPGA-based study of different multiplier architectures integrated 
 - CSV-based RTL-to-MATLAB result analysis
 - FPGA synthesis and implementation
 - Comparison of **Power, Area and Performance**
-
-🔗 **Repository:**
-[Comparative Analysis of FFT Multiplier Architectures on FPGA](https://github.com/Swapnil-Varma/Comparative-Analysis-of-FFT-Multiplier-Architectures-on-FPGA)
 
 ---
 
@@ -191,92 +179,6 @@ FPGA Implementation
         ↓
 Digital IC / VLSI Design
 ```
-
-### Current Learning Roadmap
-
-- [x] Digital Logic Fundamentals
-- [x] Verilog Fundamentals
-- [x] VHDL Fundamentals
-- [x] FPGA Development
-- [x] Xilinx Vivado
-- [x] RTL Simulation
-- [x] Testbench Development
-- [x] Arithmetic Hardware Design
-- [x] FPGA Hardware Debugging
-- [ ] Advanced RTL Design
-- [ ] SystemVerilog
-- [ ] Functional Verification
-- [ ] UVM
-- [ ] Static Timing Analysis
-- [ ] Computer Architecture
-- [ ] RISC-V RTL Implementation
-- [ ] ASIC Design Flow
-- [ ] Physical Design Fundamentals
-
----
-
-# 💻 Tech Stack
-
-\<p align="left">
-
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" width="45" height="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" width="45" height="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="45" height="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)" width="45" height="45"/>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg)" width="45" height="45"/>
-
-\</p>
-
-**HDL:** Verilog • VHDL
-**FPGA:** Xilinx Artix-7 • Basys 3
-**EDA:** Vivado • XSim • MATLAB/Simulink • Proteus • Keil
-**Programming:** C • Python • MATLAB
-**Version Control:** Git • GitHub
-
----
-
-# 🎯 Career Interests
-
-I'm particularly interested in opportunities related to:
-
-- **RTL Design**
-- **VLSI Design**
-- **Digital Design**
-- **FPGA Design**
-- **ASIC Design**
-- **Design Verification**
-- **Computer Architecture**
-- **Embedded Hardware**
-- **DSP Hardware**
-- **Hardware Architecture Optimization**
-
-My long-term goal is to work on **digital hardware at the RTL/architecture level** and develop strong expertise across the VLSI design flow.
-
----
-
-# 📊 GitHub Activity
-
-
-
-
-
----
-
-# 📫 Connect With Me
-
-\<p align="left">
-
-\<a href="[https://github.com/Swapnil-Varma](https://github.com/Swapnil-Varma)">
-\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
-
-\<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-\</a>
-
-\</p>
-
----
 
 ### 💡 "Understand the hardware. Design the architecture. Build it at RTL. Verify it. Put it on silicon."
 
